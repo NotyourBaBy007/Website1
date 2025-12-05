@@ -1,0 +1,4 @@
+Contact: mailto:info@xensphere.com
+Encryption: https://xensphere.com/pgp-key.txt
+Acknowledgments: https://xensphere.com/security
+Preferred-Languages: en
